@@ -1,6 +1,6 @@
 # Hi, I'm Angela 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Angela G - Cybersecurity Professional alongside a cartoon illustration of Angela">
+![Neutral Creative Professional LinkedIn Article Cover Image (2)](https://github.com/aye-gee/aye-gee/assets/163897234/e0d15ed4-f393-416f-a9b0-c0823314159c)
 🌱 I'm a former small business owner transitioning into the infotech world...currently honing my skills in my quest to become an authority in the cybersecurity field.
 
 
