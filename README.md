@@ -1,7 +1,7 @@
 # Hi, I'm Angela 👋🏾 👩🏾‍💻
 
 <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Angela G - Cybersecurity Professional alongside a cartoon illustration of Angela">
-I'm a former small business owner 
+🌱 I'm a former small business owner transitioning into the infotech world...currently honing my skills in my quest to become an authority in the cybersecurity field.
 
 
 ## Find me around the web 🌎: 
